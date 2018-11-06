@@ -1,5 +1,5 @@
 h1 {
-  color: blue;
+  color: red;
 }
 
 p {
@@ -9,7 +9,7 @@ p {
 }
 
 ul li {
-  color: yellow;
+  color: orange;
   background-color: grey;
   width: 30%;
 }
@@ -17,7 +17,7 @@ ul li {
 
  h2 {
   font-size: 20px;
-  color: orange;
+  color: green;
   background-color: black;
   width: 29%;
 }
