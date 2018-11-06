@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: rgba(0, 0, 255, 0.4);
+  font-family: Helvetica;
+  font-size: 16px;
+}
+
+ul li {
+  color: yellow;
+  background-color: grey;
+  width: 30%;
+}
+
+
+ h2 {
+  font-size: 20px;
+  color: orange;
+  background-color: black;
+  width: 29%;
+}
+
+ol li {
+  color: pink;
+  background-color: teal;
+  width: 30%
+}
