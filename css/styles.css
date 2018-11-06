@@ -1,0 +1,16 @@
+h1 {
+  color: rgba(0, 0, 255, 0.4);
+  font-family: helvetica;
+  font-size: 70px;
+  align: center;
+}
+h2 {
+  color: rgba(0, 0, 255, 0.4);
+  font-family: helvetica;
+  font-size: 20px;
+}
+p {
+  color: rgba(0, 0, 255, 0.4);
+  font-family: helvetica;
+  font-size: 11px;
+}
